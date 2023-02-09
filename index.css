@@ -1,13 +1,14 @@
 body {
-    background-color: lightblue;
-  }
-  
-  h1 {
-    color: white;
-    text-align: center;
-  }
-  
-  p {
-    font-family: verdana;
-    font-size: 20px;
+  font-family: "Gill Sans";
+  background-color: lightsalmon;
+  text-align: center;
+}
+
+  a {
+    text-decoration: none;
+    color: black;
+    background-color: lavender;
+    padding: 10px;
+    border-radius: 25px;
+    margin: 20px;
   }
