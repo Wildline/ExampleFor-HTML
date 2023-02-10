@@ -1,7 +1,7 @@
 body {
     font-family: Arial;
-    color: blue;
-    background-color: lightsteelblue;
+    color: red;
+    background-color: black;
     text-align: center;
   }
   
@@ -10,3 +10,21 @@ body {
    margin-left: auto;
    margin-right: auto;
   }
+
+  .div-class {
+    color: yellow;
+   } 
+   
+   #div-id {
+     color: black;
+   } 
+   
+   div {
+     color: red;
+   }
+   
+   a {
+     text-decoration: none;
+     color: white
+   }
+   
