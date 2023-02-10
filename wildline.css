@@ -1,6 +1,6 @@
 body {
     font-family: Courier;
-    background-color: salmon;
+    background-color: rgb(68, 154, 207);
     text-align: center;
   }
   table {
@@ -13,4 +13,5 @@ body {
     padding: 5px;
     border: 1px solid;
   }
+  
   
